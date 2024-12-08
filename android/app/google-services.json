@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173734930705",
+    "project_id": "helpin-24x7",
+    "storage_bucket": "helpin-24x7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173734930705:android:c6a5ba0642df283e1344b0",
+        "android_client_info": {
+          "package_name": "helpin.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOWEy3zVcC_XWYwrwHQVrtuN0vK8vbAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
